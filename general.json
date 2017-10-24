@@ -1,0 +1,106 @@
+[
+  {
+    "name": "android",
+    "color": "#bfd4f2"
+  },
+  {
+    "name": "bug",
+    "color": "#d93f0b"
+  },
+  {
+    "name": "chore",
+    "color": "#fef2c0"
+  },
+  {
+    "name": "complex",
+    "color": "#91ca55"
+  },
+  {
+    "name": "design",
+    "color": "#0e8a16"
+  },
+  {
+    "name": "development",
+    "color": "#fad8c7"
+  },
+  {
+    "name": "discussion",
+    "color": "#cc317c"
+  },
+  {
+    "name": "duplicate",
+    "color": "#5319e7"
+  },
+  {
+    "name": "feature",
+    "color": "#1d76db"
+  },
+  {
+    "name": "feature request",
+    "color": "#cc317c"
+  },
+  {
+    "name": "good first issue",
+    "color": "#91ca55"
+  },
+  {
+    "name": "invalid",
+    "color": "#f9d0c4"
+  },
+  {
+    "name": "iOS",
+    "color": "#bfd4f2"
+  },
+  {
+    "name": "legal",
+    "color": "#fef2c0"
+  },
+  {
+    "name": "node",
+    "color": "#bfd4f2"
+  },
+  {
+    "name": "on hold",
+    "color": "#5319e7"
+  },
+  {
+    "name": "production",
+    "color": "#fad8c7"
+  },
+  {
+    "name": "question",
+    "color": "#cc317c"
+  },
+  {
+    "name": "react",
+    "color": "#bfd4f2"
+  },
+  {
+    "name": "security",
+    "color": "#d93f0b"
+  },
+  {
+    "name": "test",
+    "color": "#1d76db"
+  },
+  {
+    "name": "testing",
+    "color": "#fad8c7"
+  },
+  {
+    "name": "ux",
+    "color": "#0e8a16"
+  },
+  {
+    "name": "vue",
+    "color": "#bfd4f2"
+  },
+  {
+    "name": "webpack",
+    "color": "#bfd4f2"
+  },
+  {
+    "name": "wontfix",
+    "color": "#5319e7"
+  }
+]
